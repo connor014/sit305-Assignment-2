@@ -1,1 +1,4 @@
-
+Item name: image/sound filenameyou have renamed it to, or method/function/class where the code is found.
+License type:(Public Domain / CC-BY / CC0 / GPL / MIT / Apache / BSD)
+Author / Attribution: (name of author)
+Website: (original website of the content, as per the author’s wishes)
