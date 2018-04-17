@@ -8,6 +8,9 @@ The player will be presented a scenario and multiple possible text choices at a 
 This game has strong mystery aspects and is set on a deserted island, where the player falls into a cave and attempts to escape. The objective of the game is for the player to find the characters personal items that were scattered when the player fell into the cave. 
 The overall objective is to escape, which is possible without finding any of the characters personal items however the more items the player finds the easier it becomes to escape. 
 
+# Bitbucket
+email: cbdawson@deakin.edu.au
+username: cbdawson
 
 # Henry comments 13/April
 - Still missing SID and summary here.
